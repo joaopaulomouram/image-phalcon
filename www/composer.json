@@ -1,0 +1,12 @@
+{
+    "name": "root/phalcon1",
+    "authors": [
+        {
+            "name": "João Paulo",
+            "email": "joaopaulomouram@gmail.com"
+        }
+    ],
+    "require": {
+    	"phalcon/devtools": "dev-master"
+    }
+}
